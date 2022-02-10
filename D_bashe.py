@@ -5,4 +5,4 @@ if n%m==0:
 
     print ('0')
 else:
-    print(m-k)
+    print(n%m)
